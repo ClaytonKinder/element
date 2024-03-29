@@ -15,7 +15,7 @@ exports.default = {
       confirm: 'ຢືນຢັນ',
       selectDate: 'ເລືອກ ວັນທີ',
       selectTime: 'ເລືອກ ເວລາ',
-      startDate: 'ວັນ​ທີ່​ເລີ່ມ',
+      startDate: 'ວັນ ທີ່ ເລີ່ມ',
       startTime: 'ເວລາເລີ່ມຕົ້ນ',
       endDate: 'ວັນສິ້ນສຸດ',
       endTime: 'ສິ້ນສຸດເວລາ',
@@ -64,14 +64,14 @@ exports.default = {
     select: {
       loading: 'ກຳລັງອອກ...',
       noMatch: 'ບໍ່ມີຂໍ້ມູນທີ່ກົງກັນ',
-      noData: 'ບໍ່​ມີ​ຂໍ້​ມູນ',
+      noData: 'ບໍ່ ມີ ຂໍ້ ມູນ',
       placeholder: 'ກະລຸນາເລືອກ'
     },
     cascader: {
       noMatch: 'ບໍ່ມີຂໍ້ມູນທີ່ກົງກັນ',
       loading: 'ກຳລັງອອກ...',
       placeholder: 'ກະລຸນາເລືອກ',
-      noData: 'ບໍ່​ມີ​ຂໍ້​ມູນ'
+      noData: 'ບໍ່ ມີ ຂໍ້ ມູນ'
     },
     pagination: {
       goto: 'ໄປທີ່',
@@ -92,18 +92,18 @@ exports.default = {
       continue: 'ສືບຕໍ່ອັບໂຫລດ'
     },
     table: {
-      emptyText: 'ບໍ່​ມີ​ຂໍ້​ມູນ',
+      emptyText: 'ບໍ່ ມີ ຂໍ້ ມູນ',
       confirmFilter: 'ການ ຄັດເລືອກ',
-      resetFilter: 'ເລີ່ມ​ຕົ້ນ​ໃຫມ່',
+      resetFilter: 'ເລີ່ມ ຕົ້ນ ໃຫມ່',
       clearFilter: 'ທັງຫມົດ',
       sumText: 'ທັງຫມົດ'
     },
     tree: {
-      emptyText: 'ບໍ່​ມີ​ຂໍ້​ມູນ'
+      emptyText: 'ບໍ່ ມີ ຂໍ້ ມູນ'
     },
     transfer: {
       noMatch: 'ບໍ່ມີຂໍ້ມູນທີ່ກົງກັນ',
-      noData: 'ບໍ່​ມີ​ຂໍ້​ມູນ',
+      noData: 'ບໍ່ ມີ ຂໍ້ ມູນ',
       titles: ['ລາຍຊື່ 1', 'ລາຍຊື່ 2'],
       filterPlaceholder: 'ໃສ່ເນື້ອຫາຄົ້ນຫາ',
       noCheckedFormat: 'ປົກຕ່າງໆ {total} ຄໍາສຸດ',
@@ -120,7 +120,7 @@ exports.default = {
       cancelButtonText: 'ຍົກເລີກ'
     },
     empty: {
-      description: 'ບໍ່​ມີ​ຂໍ້​ມູນ'
+      description: 'ບໍ່ ມີ ຂໍ້ ມູນ'
     }
   }
 };
